@@ -1,0 +1,44 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+/* slider  */
+.overly {
+    filter: brightness(40%);
+}
+
+.custom-bg {
+    background: #F4FAFD;
+}
+
+.carousel-custom-items {
+    top: 35%;
+}
+
+/* Btn Hover Effect */
+.btn.bg-sky:hover {
+    background-color: #2aabf5;
+}
+
+/* Coustome COde */
+.btn-outline-sky {
+    color: #289BDE;
+    border: 1px solid #289BDE;
+    padding: 12px 20-px;
+}
+
+.text-sky {
+    color: #289BDE;
+}
+
+.bg-sky {
+    background: #289BDE;
+}
+
+.bg-gray {
+    background: #4A4A4A;
+}
+
+.text-gray {
+    color: #4A4A4A;
+}
